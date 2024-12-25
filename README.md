@@ -55,7 +55,7 @@
 1. Официальная документация GnuPG:  
    https://www.gnupg.org/documentation/
 2. Учебное руководство по шифрованию с GnuPG:  
-   https://www.linuxjournal.com/content/introduction-gnupg
+   https://www.gnupg.org/gph/en/manual.html
 3. Как работает шифрование (основы):  
    https://www.kaspersky.ru/resource-center/definitions/what-is-encryption
 
